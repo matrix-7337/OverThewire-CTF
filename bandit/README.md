@@ -1,7 +1,10 @@
-## BANDIT
+## OverTheWire:BANDIT
+Here I have solved the bandit Wargame mentioning how to approach each challenge and what commands to keep in mind while solving.
 
-## FOCUS
-Linux basics and SSH fundamentsls.
-
+## LEARNING 
+- Linux Basic Commands
+- Working of SSH
+- Add..
+- 
 ## PROGRESS
-- Level completed:0 --> 
+- Level completed: 00 --> Add.. 
