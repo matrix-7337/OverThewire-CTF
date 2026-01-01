@@ -1,4 +1,4 @@
-# Bandirt Level 0 --> 1
+# Bandit Level 0 --> 1
 
 ## Objective
 Gain acces to a server and locate the password for next level
