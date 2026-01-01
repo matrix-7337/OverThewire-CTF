@@ -2,10 +2,11 @@
 
 This repository documents my hands on practice across **multiple OverTheWire wargames**
 
-## Wargames covered
+## Wargames Covered
 - BANDIT
-- LEVIATHON
+- Add..
 
 ## Goals
-- master linux fundamentals
-- understand binary exploitation
+- Master linux fundamentals
+- Understand binary exploitation
+- Add..
